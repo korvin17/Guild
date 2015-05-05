@@ -1,6 +1,39 @@
 <resources>
     <string name="app_name">Guild</string>
 
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main_tab">MainTabActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
     <string name="hello_world">Hello world!</string>
+
     <string name="action_settings">Settings</string>
+    <string name="save">Сохранить</string>
+    <string name="load">Загрузить</string>
+    <string name="new_save">новое сохранение</string>
+    <string name="auto_save">автосохранение</string>
+
+    <string name="next_day">следующий день</string>
+    <string name="name">имя</string>
+    <string name="edit_name">Введите название</string>
+    <string name="buy">купить</string>
+
+    <string name="game_ability_header">Характеристики </string>
+    <string name="game_xp">XP</string>
+    <string name="game_vigor">Энергия</string>
+    <string name="game_skill">Навык</string>
+    <string name="game_skills">Навыки</string>
+    <string name="game_ability_strength">Сила</string>
+    <string name="game_ability_dexterity">Ловкость</string>
+    <string name="game_ability_constitution">Телосложение</string>
+    <string name="game_ability_intelligence">Интеллект</string>
+    <string name="game_ability_wisdom">Мудрость</string>
+    <string name="game_ability_charisma">Харизма</string>
+    <string name="title_activity_statistics">StatisticsActivity</string>
+    <string name="action_end">конец</string>
+    <string name="title_activity_story">StoryActivity</string>
 </resources>
